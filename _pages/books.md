@@ -5,7 +5,7 @@ permalink: /books/
 description: Books I have known and loved.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [science, humanities, fiction]
 horizontal: false
 ---
 
