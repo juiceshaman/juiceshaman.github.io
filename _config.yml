@@ -307,7 +307,11 @@ external_links:
   enabled: true
   rel: external nofollow noopener
   target: _blank
-  exclude: /Users/ma/Blog/juiceshaman.github.io/assets/pdf/example_pdf.pdf, /Users/ma/Blog/juiceshaman.github.io/sample-posts, /Users/ma/Blog/juiceshaman.github.io/_pages/teaching.md, /Users/ma/Blog/juiceshaman.github.io/_pages/publications.md
+  exclude:
+    - /Users/ma/Blog/juiceshaman.github.io/assets/pdf/example_pdf.pdf
+    - /Users/ma/Blog/juiceshaman.github.io/sample-posts
+    - /Users/ma/Blog/juiceshaman.github.io/_pages/teaching.md
+    - /Users/ma/Blog/juiceshaman.github.io/_pages/publications.md
 
 
 # -----------------------------------------------------------------------------
