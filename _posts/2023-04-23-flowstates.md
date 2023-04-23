@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  Moving Closer!
@@ -7,9 +6,6 @@ description:
 tags: flow
 categories: writing
 ---
-
-
-
 Every once in a while we get these glimpses into what scientists and athletes call flow. Sometimes only afterwards we realise that what just happened was peak performance. Moments filled by a sense of Selflessness. Timelessness, Effortlessness and Richness. Like in deep meditative states, ecstatic dancing to your favourite jam, reading a book that really resonates with you or just expressing yourself creatively. However one attains those states, we feel good afterwards, being engaged in our actions and connected to our senses. Just having an experience of flow once in a while can lift ourselves up and help us withstand the chaos we often
 face in our lives. An important part of my personal quest is to keep going back deliberately into states of altered consciousness in order to self actualise. To optimise the way I tap into my potential as a human
 being. The are several ways that have proven to work for me personally. First there is a regular
