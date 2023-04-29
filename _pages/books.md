@@ -15,6 +15,32 @@ horizontal: false
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
   <h2 class="category">{{ category }}</h2>
+  <ul class="booklist">
+
+</ul>
+<h2 id="Philosophy, Psychology</h2>
+<ul class="booklist">
+
+<li>Nietzsche, Friedrich – <dfn>The Anti-Christ</dfn> <span class="loc">(B3313.A8)</span></li>
+
+<li>Nietzsche, Friedrich – <dfn>The Birth of Tragedy and The Case of Wagner</dfn> <span class="loc">(B3313.G42)</span></li>
+
+<li>Nietzsche, Friedrich – <dfn>Beyond Good and Evil</dfn> <span class="loc">(B3313.J43)</span></li>
+
+<li>Nietzsche, Friedrich – <dfn>On the Genealogy of Morals and Ecce Homo</dfn> <span class="loc">(B3316.N54)</span></li>
+
+<li>Kahneman, Daniel – <dfn>Thinking, Fast and Slow</dfn> <span class="loc">(BF441)</span> <a href="https://notrelated.xyz/#01.06"><img src="/pix/nr.svg" alt="notrelated episode"></a></li>
+
+<li>Carnegie, Dale – <dfn>How to Win Friends &amp; Influence People</dfn> <span class="loc">(BF637.S8)</span></li>
+
+<li>Epicurus – <dfn>Letters and Sayings of Epicurus</dfn> <span class="loc">(B570.E5)</span></li>
+
+li>Taleb, Nassim Nicholas – <dfn>Antifragile</dfn> <span class="loc">(Q375)</span></li>
+
+li>Taleb, Nassim Nicholas – <dfn>The Black Swan</dfn> <span class="loc">(Q375)</span></li>
+
+/ul>
+
   {%- assign categorized_projects = site.projects | where: "category", category -%}
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
@@ -79,31 +105,6 @@ horizontal: false
 </header></a>
 <article>
 
-<ul class="booklist">
-
-</ul>
-<h2 id="Philosophy, Psychology</h2>
-<ul class="booklist">
-
-<li>Nietzsche, Friedrich – <dfn>The Anti-Christ</dfn> <span class="loc">(B3313.A8)</span></li>
-
-<li>Nietzsche, Friedrich – <dfn>The Birth of Tragedy and The Case of Wagner</dfn> <span class="loc">(B3313.G42)</span></li>
-
-<li>Nietzsche, Friedrich – <dfn>Beyond Good and Evil</dfn> <span class="loc">(B3313.J43)</span></li>
-
-<li>Nietzsche, Friedrich – <dfn>On the Genealogy of Morals and Ecce Homo</dfn> <span class="loc">(B3316.N54)</span></li>
-
-<li>Kahneman, Daniel – <dfn>Thinking, Fast and Slow</dfn> <span class="loc">(BF441)</span> <a href="https://notrelated.xyz/#01.06"><img src="/pix/nr.svg" alt="notrelated episode"></a></li>
-
-<li>Carnegie, Dale – <dfn>How to Win Friends &amp; Influence People</dfn> <span class="loc">(BF637.S8)</span></li>
-
-<li>Epicurus – <dfn>Letters and Sayings of Epicurus</dfn> <span class="loc">(B570.E5)</span></li>
-
-li>Taleb, Nassim Nicholas – <dfn>Antifragile</dfn> <span class="loc">(Q375)</span></li>
-
-li>Taleb, Nassim Nicholas – <dfn>The Black Swan</dfn> <span class="loc">(Q375)</span></li>
-
-/ul>
 h2 id="another topic">QA: Topic</h2>
 ul class="booklist">
 
