@@ -5,7 +5,7 @@ permalink: /books/
 description: Books I have known and loved.
 nav: true
 nav_order: 2
-display_categories: [science, humanities, fiction]
+display_categories: [philosophy, science, humanities, fiction]
 horizontal: false
 ---
 
@@ -29,7 +29,7 @@ horizontal: false
 
 <li>Nietzsche, Friedrich – <dfn>On the Genealogy of Morals and Ecce Homo</dfn> <span class="loc">(B3316.N54)</span></li>
 
-<li>Kahneman, Daniel – <dfn>Thinking, Fast and Slow</dfn> <span class="loc">(BF441)</span> <a href="https://notrelated.xyz/#01.06"><img src="/pix/nr.svg" alt="notrelated episode"></a></li>
+<li>Kahneman, Daniel – <dfn>Thinking, Fast and Slow</dfn> <span class="loc">(BF441)</span>
 
 <li>Carnegie, Dale – <dfn>How to Win Friends &amp; Influence People</dfn> <span class="loc">(BF637.S8)</span></li>
 
