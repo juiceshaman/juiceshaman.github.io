@@ -18,7 +18,8 @@ horizontal: false
   <ul class="booklist">
 
 </ul>
-<h2 id="Philosophy, Psychology</h2>
+Philosophy, Psychology
+
 <ul class="booklist">
 
 <li>Nietzsche, Friedrich – <dfn>The Anti-Christ</dfn> <span class="loc">(B3313.A8)</span></li>
@@ -29,7 +30,7 @@ horizontal: false
 
 <li>Nietzsche, Friedrich – <dfn>On the Genealogy of Morals and Ecce Homo</dfn> <span class="loc">(B3316.N54)</span></li>
 
-<li>Kahneman, Daniel – <dfn>Thinking, Fast and Slow</dfn> <span class="loc">(BF441)</span>
+<li>Kahneman, Daniel – <dfn>Thinking, Fast and Slow</dfn> <span class="loc">(BF441)</span></li>
 
 <li>Carnegie, Dale – <dfn>How to Win Friends &amp; Influence People</dfn> <span class="loc">(BF637.S8)</span></li>
 
@@ -120,15 +121,15 @@ ul class="booklist">
 <br clear="both">
 </article>
 </main>
-<footer>
-	<a href="</a>
-
-	<p>
-<!--	<img class="lw" src="/pix/btc.svg">Bitcoin (<a href="/pix/btc-logo.png">QR</a>): wallet ID </code>
-	<br>
-	<img class="lw" src="/pix/xmr.svg">Monero (<a href="/pix/xmr-logo.png">QR</a>): <code class="crypto">monero wallet id> -->
-	</p><p><a href="/index.xml"><img src="/rss.svg" style="max-height:1.5em" alt="RSS Feed" title="Subscribe via RSS for updates."></a>
-</p></footer>
-
-
+<!-- <footer>
+<!-- 	<a href="</a>
+<!--
+<!-- 	<p>
+<!-- <!--	<img class="lw" src="/pix/btc.svg">Bitcoin <!--(<a href="/">QR</a>)-->: wallet ID </code>
+<!-- 	<br>
+<!-- 	<img class="lw" src="/pix/xmr.svg">Monero <code class="crypto">monero wallet id> -->
+<!-- 	</p><p><a href="/index.xml"><img src="/rss.svg" style="max-height:1.5em" alt="RSS Feed" title="Subscribe via RSS for updates."></a>
+<!-- </p></footer>
+<!--
+<!--
 </body></html>
