@@ -16,7 +16,7 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I feel called to actually start sharing my journey and want people to join on in. That is the reason I made this blog and why I will continually do my best to provide resources. A quote by Muhammad Ali I read yesterday really stuck with me: „Service to others is the rent you pay for your room here on earth.“ And that is just what I am trying to do, I’m trying to pay my rent, and I hope in the years to come I can be of service to the world and to a tribe by sharing what I believe to be meaningful and helpful on the journey of Individuation, which is finding out who you are and integrating all the various parts. And I really truly believe that together we can change the collective consciousness for the better if we all start with ourselves and our immediate range of impact. Thank you! For reading this and for spending time with my mission, which I hope to define more precisely in coming posts. I perceive the god, which is you!
+This is my blog, where I write about my learning experiences.
 
 <!---
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
