@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Mario
 middle_name: E.
 last_name: Albus
-email: marioalbus@mailbox.org
+email: mario@marioalbus.xyz
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   This blog is a collection on my current take on existence as well as other interesting artefacts I might have picked uo along the ride.
 
@@ -18,7 +18,7 @@ keywords: magick, science, literature, chemistry, psychedelics, pharmacology, # 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 💊 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://juiceshaman.github.io # the base hostname & protocol for your site
+url: https://marioalbus.xyz # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -103,8 +103,7 @@ facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
-contact_note: >
-  Feel free to message me anytime!
+contact_note:
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
