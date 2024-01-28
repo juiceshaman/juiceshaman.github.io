@@ -542,16 +542,6 @@ ul class="booklist">
 </article>
 </main>
 <!-- <footer>
-<!-- 	<a href="</a>
-<!--
-<!-- 	<p>
-<!-- <!--	<img class="lw" src="/pix/btc.svg">Bitcoin <!--(<a href="/">QR</a>)-->
-<!--: wallet ID </code>
-<!-- 	<br>
-<!-- 	<img class="lw" src="/pix/xmr.svg">Monero <code class="crypto">monero wallet id> -->
-<!-- 	</p><p>
-<!--a href="/index.xml"><img src="/rss.svg" style="max-height:1.5em" alt="RSS Feed" title="Subscribe via RSS for updates."></a>
+<!--a href="/index.xml"><!--img src="/rss.svg" style="max-height:1.5em" alt="RSS Feed" title="Subscribe via RSS for updates."></a>
 <!-- </p></footer>
-<!--
-<!--
 </body></html>
