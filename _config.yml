@@ -8,12 +8,11 @@ middle_name: E.
 last_name: Albus
 email: mario@marioalbus.xyz
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  This blog is a collection on my current take on existence as well as other interesting artefacts I might have picked uo along the ride.
-
+This is my personal general purpose website.
 
 
 footer_text:
-keywords: magick, science, literature, chemistry, psychedelics, pharmacology, # add your own keywords or leave empty
+keywords: science, literature, chemistry, pharmacology, technology # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 💊 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -98,7 +97,7 @@ lastfm_id: # your lastfm id
 spotify_id: # your spotify id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
-instagram_id: juiceshaman23 # your instagram id
+instagram_id: #juiceshaman23 # your instagram id
 facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
